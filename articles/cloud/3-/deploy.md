@@ -56,7 +56,7 @@ Digest: sha256:41ad9967ea448d7c2b203c699b429abe1ed5af331cd92533900c6d77490e0268
 如图5所示。
 
 <div align="center">
-<img src="/articles/cloud/3-/images/deploy/privateregistrycatalogs.png">
+<img src="/articles/cloud/3-/images/deploy/privateregistrycatalogs.jpg">
 </div>
 <p align="center"> 图 5</p>
 
