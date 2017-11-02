@@ -2,7 +2,7 @@
 =
 第一步：在持续集成中找到您已经构建成功的应用，点击“部署”，进入部署界面
 <div align=center>
-<img src="/articles/cloud/2-/images/5.jpg"/>
+<img src="/articles/cloud/2-/images/5.png"/>
 </div>
 <p align="center">图 1</p>
 
