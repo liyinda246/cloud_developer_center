@@ -129,8 +129,8 @@
 
 32.**怎么使用中间件?**
 
-答：举例说明：[使用和管理Redis服务](/articles/cloud/3-/redis.md)
-、[使用和管理MySQL服务](/articles/cloud/3-/mysql.md)
+答：举例说明：[使用和管理Redis服务](/articles/cloud/3-/middleware/redis.md)
+、[使用和管理MySQL服务](/articles/cloud/3-/middleware/mysql.md)
 
 33.**服务、应用和实例的从属关系是什么？**
 

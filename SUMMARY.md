@@ -6,11 +6,13 @@
   * [应用场景](articles/cloud/1-/scene.md)
   * [基础架构](articles/cloud/1-/architecture.md)
   * [产品历程](articles/cloud/1-/releas_note.md)
+  
 * 快速入门
   * [场景一：如何快速创建一个应用](articles/cloud/2-/scene1.md)
   * [场景二：1分钟快速部署您的第一个容器](articles/cloud/2-/scene2.md)
   * [云开发者中心快速入门](articles/cloud/2-/rumen.md)
   * [用友云开发者中心使用 Docker](articles/cloud/2-/center_docker.md)
+  
 * 用户手册
   * [租户开通](articles/cloud/3-/opening.md)
   * [资源池](articles/cloud/3-/resource_pool.md)
@@ -23,8 +25,8 @@
   * [在线终端](articles/cloud/3-/terminal.md)
   * [监控大盘](articles/cloud/3-/monitor.md)
   * [报警中心](articles/cloud/3-/alarm_center.md)
-  * [使用和管理Redis服务](articles/cloud/3-/redis.md)
-  * [使用和管理MySQL服务](articles/cloud/3-/mysql.md)
+  * [中间件服务](articles/cloud/3-/middleware.md)
+  
 * 产品常见问题
   * [常见问题](articles/cloud/4-/question.md)
 
