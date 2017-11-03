@@ -17,7 +17,10 @@
 点击左上角的```创建新应用```按钮进入创建新应用页面并编辑表单，为后续部署做前期准备，注意其中的所有内容都是必填项。如图2所示。
 
 <div align="center">
-<img src="/articles/cloud/3-/images/create_2.png">
+<img src="/articles/cloud/3-/images/create_2.1.png">
+</div>
+<div align="center">
+<img src="/articles/cloud/3-/images/create_2.2.png">
 </div>
 <p align="center"> 图 2</p>
 
