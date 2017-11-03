@@ -19,7 +19,7 @@
 <p align="center"> 图 2</p>
 
 <div align="center">
-![](/articles/cloud/3-/images/control_3.png)
+<img src="/articles/cloud/3-/images/control_3.png">
 </div>
 <p align="center"> 图 3</p>
 
@@ -40,7 +40,7 @@
 
 图6所示为相关协同部门和帮助文档的快速链接
 <div align="center">
-![](/articles/cloud/3-/images/control_6.png)
+<img src="/articles/cloud/3-/images/control_6.png">
 </div>
 <p align="center"> 图 6</p>
 
