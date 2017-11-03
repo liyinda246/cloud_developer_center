@@ -48,29 +48,40 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 6</p>
 
-创建的服务更新为 `运行中` 状态，服务创建成功。可以看到 MySQL 服务的详细信息，包括 MySQL 服务的外网管理界面地址、内网链接地址、端口号等，用户可以在开发者中心的网络内使用此链接地址作为应用的配置。
+创建的服务更新为 `运行中` 状态，服务创建成功。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_6.png"/>
 </div>
 <p align="center">图 7</p>
 
-
-##### 注意：创建的 MySQL 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会发送邮件通知用户。
-
-7、点击 `管理地址` ，进入 phpMyAdmin 登录界面。
+点击下图中 `+` 号处，查看MySQL 服务的详细信息。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_7.png"/>
 </div>
 <p align="center">图 8</p>
 
-8、输入用户名和密码，点击 `执行`。
+可以看到 MySQL 服务的详细信息，包括 MySQL 服务的外网管理界面地址、内网链接地址、端口号等，用户可以在开发者中心的网络内使用此链接地址作为应用的配置。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_8.png"/>
 </div>
 <p align="center">图 9</p>
 
-进入到 phpMyAdmin 数据库管理系统，用户可以在此创建数据库和数据表，也可以直接导入 sql 文件执行或将数据库导出至 sql 文件。
+##### 注意：创建的 MySQL 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会发送邮件通知用户。
+
+7、点击 `管理地址` ，进入 phpMyAdmin 登录界面。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_9.png"/>
 </div>
 <p align="center">图 10</p>
+
+8、输入用户名和密码，点击 `执行`。
+<div align=center>
+<img src="/articles/cloud/3-/images/mysql/mysql_10.png"/>
+</div>
+<p align="center">图 11</p>
+
+进入到 phpMyAdmin 数据库管理系统，用户可以在此创建数据库和数据表，也可以直接导入 sql 文件执行或将数据库导出至 sql 文件。用户可在此界面中管理自己应用的 MySQL 数据库。
+<div align=center>
+<img src="/articles/cloud/3-/images/mysql/mysql_11.png"/>
+</div>
+<p align="center">图 12</p>
