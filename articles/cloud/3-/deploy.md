@@ -85,7 +85,7 @@ Digest: sha256:41ad9967ea448d7c2b203c699b429abe1ed5af331cd92533900c6d77490e0268
 </div>
 <p align="center"> 图 8</p>
 
-镜像的部署配置可以参见[应用部署](#应用部署)章节。
+镜像的部署配置可以参见[应用部署](articles/cloud/2-/scene2.md)章节。
 
 ### 手动上传镜像至私有镜像仓库
 用友云开发者中心在私有镜像仓库为开发者提供了手动上传镜像功能，开发者可以通过Push脚本进行自有```docker```镜像的上传。
@@ -112,76 +112,3 @@ v1: digest: sha256:12d30ce421ad530494d588f87b2328ddc3cae666e77ea1ae5ac3a6661e52c
 ```
 
 Tips: 租户ID可以联系开发者中心获取。
-
-## 应用部署
-> 应用部署节点可以让开发者省去繁琐的配置，一键部署已上传的应用镜像，并获取可以访问的公网地址。
-
-如图9所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deployindex.png">
-</div>
-<p align="center"> 图 9</p>
-
-### 开始部署
-在持续集成节点或镜像仓库节点的应用列表，可以点击部署进行应用的部署，部署界面可以进行应用的具体配置。如果您无需修改配置属性，直接点击页面的部署按钮即可发布您的应用。
-如图10所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deploydetials.png">
-</div>
-<p align="center"> 图 10</p>
-
-### 配置文件
-在应用部署界面，开发者可以加载已上传应用抽取的配置文件来快速进行配置动作，点击部署界面的启用```配置文件```属性，即可选择需要加载的配置。
-如图11所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deployconfigfile.png">
-</div>
-<p align="center"> 图 11</p>
-
-### 端口设置
-开发者可以在部署时配置自己的应用的端口、协议、访问方式和访问范围。
-如图12所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deployport.png">
-</div>
-<p align="center"> 图 12</p>
-
-### 资源池选择
-开发者可以通过选择不同的资源池来确保自己的应用运行在何种环境(主机群)中，应用部署中只可选择一个资源池。
-如图13所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deploypool.png">
-</div>
-<p align="center"> 图 13</p>
-
-### 基础配置
-如果开发者需要配置应用运行的具体参数，可以通过修改基础配置中的属性，进行内存、CPU、磁盘、初始启动实例数等定制操作。
-如图14所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deploybaseconfig.png">
-</div>
-<p align="center"> 图 14</p>
-
-### 已部署应用列表
-应用管理节点可以查看开发者部署的所有应用，点击查看应用可以进行实例扩缩、属性修改、域名绑定、应用监控等动作。应用列表如图15所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deploylist.png">
-</div>
-<p align="center"> 图 15</p>
-
-查看应用具体信息如图16所示。
-
-<div align="center">
-<img src="/articles/cloud/3-/images/deploy/deployproperties.png">
-</div>
-<p align="center"> 图 16</p>
-
-
-
