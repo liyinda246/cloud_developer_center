@@ -42,7 +42,7 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 </div>
 <p align="center">图 5</p>
 
-6、稍等1~2分钟，点击 `刷新` 按钮刷新列表状态。
+稍等1~2分钟，点击 `刷新` 按钮刷新列表状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/redis/redis_5.png"/>
 </div>

@@ -42,7 +42,7 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 5</p>
 
-6、稍等1~2分钟，点击 `刷新` 按钮刷新列表状态。
+稍等1~2分钟，点击 `刷新` 按钮刷新列表状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_5.png"/>
 </div>
@@ -80,7 +80,7 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 11</p>
 
-进入到 phpMyAdmin 数据库管理系统，用户可以在此创建数据库和数据表，也可以直接导入 sql 文件执行或将数据库导出至 sql 文件。用户可在此界面中管理自己应用的 MySQL 数据库。
+9、进入到 phpMyAdmin 数据库管理系统，用户可以在此创建数据库和数据表，也可以直接导入 sql 文件执行或将数据库导出至 sql 文件。用户可在此界面中管理自己应用的 MySQL 数据库。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_11.png"/>
 </div>
