@@ -18,7 +18,7 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 </div>
 <p align="center">图 1</p>
 
-3、点击 Redis 服务所在区域的 `创建一个` 按钮或者点击 `管理我的Redis界面` 按钮，然后点击 `创建服务` 按钮，创建自己的 Redis 服务。
+3、点击 Redis 服务所在区域的 `创建一个` 按钮或者点击 `管理我的Redis` 按钮，然后点击 `创建服务` 按钮，创建自己的 Redis 服务。
 <div align=center>
 <img src="/articles/cloud/3-/images/redis/redis_1.png"/>
 </div>
@@ -30,7 +30,7 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 </div>
 <p align="center">图 3</p>
 
-设置服务密码，创建 Redis 服务。
+设置服务密码，点击 `创建服务`按钮，创建 Redis 服务。
 <div align=center>
 <img src="/articles/cloud/3-/images/redis/redis_3.png"/>
 </div>
@@ -66,4 +66,4 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 </div>
 <p align="center">图 9</p>
 
-##### 注意 创建的 Redis 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会邮件提醒用户。
+##### 注意：创建的 Redis 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会邮件提醒用户。

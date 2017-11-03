@@ -18,7 +18,7 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 1</p>
 
-3、点击 MySQL 服务所在区域的 `创建一个` 按钮或者点击 `管理我的MySQL界面` 按钮，然后点击 `创建服务` 按钮，创建自己的 MySQL 服务。
+3、点击 MySQL 服务所在区域的 `创建一个` 按钮或者点击 `管理我的MySQL` 按钮，然后点击 `创建服务` 按钮，创建自己的 MySQL 服务。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_1.png"/>
 </div>
@@ -30,7 +30,7 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 3</p>
 
-设置 MySQL 数据库密码，点击 `创建服务`按钮，创建MySQL服务。
+设置 MySQL 数据库密码，点击 `创建服务`按钮，创建 MySQL 服务。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_3.png"/>
 </div>
@@ -74,13 +74,13 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 10</p>
 
-8、进入 phpMyAdmin 登录界面，输入用户名和密码，点击 `执行`按钮。
+8、进入 phpMyAdmin 登录界面，输入用户名和密码，点击 `执行` 按钮登录。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_10.png"/>
 </div>
 <p align="center">图 11</p>
 
-9、进入到 phpMyAdmin 数据库管理系统，用户可以在此创建数据库和数据表，也可以直接导入 sql 文件执行或将数据库导出至 sql 文件。用户可在此界面中管理自己应用的 MySQL 数据库。
+9、进入到 phpMyAdmin 数据库管理系统，用户可在此界面中管理自己应用的 MySQL 数据库，例如创建数据库和数据表，直接导入 sql 文件执行或将数据库导出为 sql 文件。。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_11.png"/>
 </div>
