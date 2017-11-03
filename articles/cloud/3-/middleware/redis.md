@@ -12,7 +12,7 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 
 1、登录用友云开发者中心官网，[点击这里](https://developer.yonyoucloud.com)。
 
-2、点击左侧菜单 `中间件服务`，进入中间件服务管理界面
+2、点击左侧菜单 `中间件服务`，进入中间件服务管理界面。
 <div align=center>
 <img src="/articles/cloud/3-/images/middleware.png"/>
 </div>
@@ -30,13 +30,13 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 </div>
 <p align="center">图 3</p>
 
-设置服务密码，创建 Redis 服务
+设置服务密码，创建 Redis 服务。
 <div align=center>
 <img src="/articles/cloud/3-/images/redis/redis_3.png"/>
 </div>
 <p align="center">图 4</p>
 
-5、进入 Redis 服务列表管理界面，可以看到服务的状态，刚创建的服务为 `部署中` 状态
+5、进入 Redis 服务列表管理界面，可以看到服务的状态，刚创建的服务为 `部署中` 状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/redis/redis_4.png"/>
 </div>
