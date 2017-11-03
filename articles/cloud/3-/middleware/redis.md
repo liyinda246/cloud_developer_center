@@ -10,7 +10,7 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 
 ## Redis 服务管理维护 
 
-1、登录用友云开发者中心网站，[点击这里](https://developer.yonyoucloud.com)。
+1、登录用友云开发者中心官网，[点击这里](https://developer.yonyoucloud.com)。
 
 2、点击左侧菜单 `中间件服务`，进入中间件服务管理界面
 <div align=center>
@@ -18,40 +18,52 @@ Redis 服务提供基础的创建、销毁、续期等功能，用户可根据�
 </div>
 <p align="center">图 1</p>
 
-3、点击 Redis 服务的区域的 `创建一个` 按钮或者点击 `管理我的Redis界面` 按钮，然后点击 `创建服务` 按钮，创建自己的 Redis 服务。
+3、点击 Redis 服务所在区域的 `创建一个` 按钮或者点击 `管理我的Redis界面` 按钮，然后点击 `创建服务` 按钮，创建自己的 Redis 服务。
 <div align=center>
-<img src="/articles/cloud/3-/images/redis_1.png"/>
+<img src="/articles/cloud/3-/images/redis/redis_1.png"/>
 </div>
 <p align="center">图 2</p>
 
-4、输入服务名称、描述、用户名称、密码等，并选择合适的配额，创建Redis服务
+4、输入服务名称、描述，并选择合适的配置。
 <div align=center>
-<img src="/articles/cloud/3-/images/redis_3.png"/>
+<img src="/articles/cloud/3-/images/redis/redis_2.png"/>
 </div>
 <p align="center">图 3</p>
 
-第五步：进入Redis服务列表管理界面，可以查看服务的状态，刚创建的服务为“部署中”状态
+设置服务密码，创建 Redis 服务
 <div align=center>
-<img src="/articles/cloud/3-/images/redis_4.png"/>
+<img src="/articles/cloud/3-/images/redis/redis_3.png"/>
 </div>
 <p align="center">图 4</p>
 
-第六步：稍等1-2分钟，刷新列表状态，创建的服务更新为运行中状态，服务创建成功，点击此行，查看详细信息
+5、进入 Redis 服务列表管理界面，可以看到服务的状态，刚创建的服务为 `部署中` 状态
 <div align=center>
-<img src="/articles/cloud/3-/images/redis_5.png"/>
+<img src="/articles/cloud/3-/images/redis/redis_4.png"/>
 </div>
 <p align="center">图 5</p>
 
-第七步：详细信息中展示了Redis服务的内网链接地址、端口号、示例名等信息，开发者可以在开发者中心的网络内使用此链接地址进行应用的配置
-
-第八步：创建的服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会邮件提醒用户
+6、稍等1~2分钟，点击 `刷新` 按钮刷新列表状态。
 <div align=center>
-<img src="/articles/cloud/3-/images/redis_6.png"/>
+<img src="/articles/cloud/3-/images/redis/redis_5.png"/>
 </div>
 <p align="center">图 6</p>
 
-* 每个租户默认允许创建3个Redis服务实例，系统会给出提醒信息并跳转至列表管理页
+创建的服务更新为 `运行中` 状态，服务创建成功。
 <div align=center>
-<img src="/articles/cloud/3-/images/middleware_2.png"/>
+<img src="/articles/cloud/3-/images/redis/redis_6.png"/>
 </div>
 <p align="center">图 7</p>
+
+点击下图中的 `+` 处，查看 Redis 服务的详细信息。
+<div align=center>
+<img src="/articles/cloud/3-/images/redis/redis_7.png"/>
+</div>
+<p align="center">图 8</p>
+
+可以看到 Redis 服务的内网连接地址、端口号、实例名等信息。用户可以在开发者中心的网络内使用此连接地址进行应用的配置。
+<div align=center>
+<img src="/articles/cloud/3-/images/redis/redis_8.png"/>
+</div>
+<p align="center">图 9</p>
+
+##### 注意 创建的 Redis 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会邮件提醒用户。
