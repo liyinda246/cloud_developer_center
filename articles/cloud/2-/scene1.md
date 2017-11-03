@@ -23,7 +23,6 @@
 
 <p align="center">图 2</p>
 
-第三步：点击最下面的“创建新应用”，可以查看当前日志，等待出现“Upload success”，镜像封装完成
 
 <div align=center>
 
@@ -33,6 +32,8 @@
 
 <p align="center">图 3</p>
 
+
+第三步：点击最下面的“创建新应用”，可以查看当前日志，等待出现“Upload success”，镜像封装完成
 
 <div align=center>
 
