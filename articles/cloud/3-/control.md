@@ -1,10 +1,10 @@
 ### 概述
 控制台，是对开发者中心资源、应用健康状况、应用访问情况的概览中心，还提供了相关帮助文档以及其他协同部门的快捷链接入口，方便用户总体把控资源应用的调度和使用情况。如图1.1和图1.2所示。
 
-![](/articles/cloud/3-/images/control_l1.png)
+![](/articles/cloud/3-/images/control_11.png)
 <p align="center"> 图 1.1</p>
 
-![](/articles/cloud/3-/images/contro_l2.png)
+![](/articles/cloud/3-/images/control_12.png)
 <p align="center"> 图 1.2</p>
 
 下面对控制台各部分功能进行详细介绍。
