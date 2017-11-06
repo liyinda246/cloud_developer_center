@@ -38,7 +38,7 @@ ZooKeeper 的目标就是封装好复杂易出错的关键服务，将简单易�
 
 ##### 注意：创建的 Zookeeper 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会邮件提醒用户。
 
-5、每个租户默认允许创建3个Zookeeper服务实例，系统会给出提醒信息。
+5、每个租户默认允许创建 3 个 Zookeeper 服务实例，系统会给出提醒信息。
 <div align=center>
 <img src="/articles/cloud/3-/images/zookeeper/zookeeper_4.png"/>
 </div>
