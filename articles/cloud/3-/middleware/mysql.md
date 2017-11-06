@@ -30,7 +30,7 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 3</p>
 
-设置 MySQL 数据库密码，点击 `创建服务`按钮，创建 MySQL 服务。
+设置 MySQL 数据库密码，点击 `创建服务` 按钮，创建 MySQL 服务。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_3.png"/>
 </div>
@@ -68,19 +68,19 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 
 ##### 注意：创建的 MySQL 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会发送邮件通知用户。
 
-7、点击 `管理地址` 对应链接。
+6、点击 `管理地址` 对应链接。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_9.png"/>
 </div>
 <p align="center">图 10</p>
 
-8、进入 phpMyAdmin 登录界面，输入用户名和密码，点击 `执行` 按钮登录。
+7、进入 phpMyAdmin 登录界面，输入用户名和密码，点击 `执行` 按钮登录。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_10.png"/>
 </div>
 <p align="center">图 11</p>
 
-9、进入到 phpMyAdmin 数据库管理系统，用户可在此界面中管理自己应用的 MySQL 数据库，例如创建数据库和数据表，直接导入 sql 文件执行或将数据库导出为 sql 文件。。
+8、进入到 phpMyAdmin 数据库管理系统，用户可在此界面中管理自己应用的 MySQL 数据库，例如创建数据库和数据表，直接导入 sql 文件执行或将数据库导出为 sql 文件。。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_11.png"/>
 </div>

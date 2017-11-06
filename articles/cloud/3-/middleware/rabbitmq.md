@@ -8,6 +8,8 @@ RabbitMQ 是实现 AMQP 的消息中间件的一种，最初起源于金融系�
 
 RabbitMQ 是一个开源的 AMQP 实现，服务器端用 Erlang 语言编写，支持多种客户端，如Python、Ruby、.NET、Java、JMS、C、PHP、ActionScript、XMPP、STOMP等，支持AJAX。
 
+用友云开发者中心提供消息中间件 RabbitMQ 服务，包括创建、销毁、续期等功能，用户可根据自身资源情况，选择不同的配额，以获得与自己应用相适应的消息服务能力。
+
 ## RabbitMQ 服务管理维护 
 
 1、登录用友云开发者中心官网，[点击这里](https://developer.yonyoucloud.com)。
@@ -68,19 +70,19 @@ RabbitMQ 是一个开源的 AMQP 实现，服务器端用 Erlang 语言编写，
 
 ##### 注意：创建的 RabbitMQ 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会发送邮件通知用户。
 
-7、点击 `管理地址` 对应链接。
+6、点击 `管理地址` 对应链接。
 <div align=center>
 <img src="/articles/cloud/3-/images/rabbitmq/rabbitmq_9.png"/>
 </div>
 <p align="center">图 10</p>
 
-8、进入 RabbitMQ 登录界面，输入用户名和密码，点击 `Login` 按钮登录。
+7、进入 RabbitMQ 登录界面，输入用户名和密码，点击 `Login` 按钮登录。
 <div align=center>
 <img src="/articles/cloud/3-/images/rabbitmq/rabbitmq_10.png"/>
 </div>
 <p align="center">图 11</p>
 
-9、进入到 RabbitMQ 管理界面，用户可在此界面中管理自己应用的 RabbitMQ，例如创建用户、给用户赋予权限、查看连接状态等。
+8、进入到 RabbitMQ 管理界面，用户可在此界面中管理自己应用的 RabbitMQ，例如创建用户、给用户赋予权限、查看连接状态等。
 <div align=center>
 <img src="/articles/cloud/3-/images/rabbitmq/rabbitmq_11.png"/>
 </div>
