@@ -22,7 +22,7 @@
 
 <p align="center">图 2</p>
 
-&ensp;&ensp;&ensp;&ensp;接下来以应用【2048小游戏】为例，介绍如何设置报警管理。
+&ensp;&ensp;&ensp;&ensp;接下来以应用【123】为例，介绍如何设置报警管理。
 
 &ensp;&ensp;&ensp;&ensp;(1)点击左侧的【应用报警】，进入应用报警页签，点击【添加监控对象】，如图3所示。
 
@@ -34,7 +34,7 @@
 
 <p align="center">图 3</p>
 
-&ensp;&ensp;&ensp;&ensp;(2)选择应用【2048小游戏】，并点击【下一步】如图4所示。
+&ensp;&ensp;&ensp;&ensp;(2)选择应用【123】，并点击【下一步】，也可以选择多个未开启报警的应用一起开启报警，但是请注意，如果应用已经开启报警则不能重复添加报警，否则会导致批量选择的应用全部开启报警失败。如图4所示。
 
 <div align=center>
 
@@ -54,7 +54,7 @@
 
 <p align="center">图 5</p>
 
-&ensp;&ensp;&ensp;&ensp;(4)应用【2048小游戏】的报警开启成功，如图6所示。
+&ensp;&ensp;&ensp;&ensp;(4)应用【123】的报警开启成功，如图6所示。
 
 <div align=center>
 
