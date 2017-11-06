@@ -36,13 +36,13 @@ MySQL 是一种开放源代码的关系型数据库管理系统，使用最常�
 </div>
 <p align="center">图 4</p>
 
-5、进入 MySQL 服务列表管理界面，可以看到服务的状态，刚创建的服务为 `部署中` 状态。
+5、进入 MySQL 服务列表管理界面，可以看到服务的名称、状态、规格、剩余时间等，刚创建的服务为 `部署中` 状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_4.png"/>
 </div>
 <p align="center">图 5</p>
 
-稍等1~2分钟，点击 `刷新` 按钮刷新列表状态。
+稍等 1~2 分钟，点击 `刷新` 按钮刷新列表状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/mysql/mysql_5.png"/>
 </div>

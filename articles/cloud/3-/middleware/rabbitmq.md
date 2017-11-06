@@ -30,19 +30,19 @@ RabbitMQ 是一个开源的 AMQP 实现，服务器端用 Erlang 语言编写，
 </div>
 <p align="center">图 3</p>
 
-设置 RabbitMQ 用户名称和服务密码，点击 `创建服务` 按钮，创建 RabbitMQ 服务。
+设置 RabbitMQ 用户名和服务密码，点击 `创建服务` 按钮，创建 RabbitMQ 服务。
 <div align=center>
 <img src="/articles/cloud/3-/images/rabbitmq/rabbitmq_3.png"/>
 </div>
 <p align="center">图 4</p>
 
-5、进入 RabbitMQ 服务列表管理界面，可以看到服务的状态，刚创建的服务为 `部署中` 状态。
+5、进入 RabbitMQ 服务列表管理界面，可以看到服务的名称、状态、规格、剩余时间等，刚创建的服务为 `部署中` 状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/rabbitmq/rabbitmq_4.png"/>
 </div>
 <p align="center">图 5</p>
 
-稍等1~2分钟，点击 `刷新` 按钮刷新列表状态。
+稍等 1~2 分钟，点击 `刷新` 按钮刷新列表状态。
 <div align=center>
 <img src="/articles/cloud/3-/images/rabbitmq/rabbitmq_5.png"/>
 </div>
@@ -66,7 +66,7 @@ RabbitMQ 是一个开源的 AMQP 实现，服务器端用 Erlang 语言编写，
 </div>
 <p align="center">图 9</p>
 
-##### 注意：创建的 MySQL 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会发送邮件通知用户。
+##### 注意：创建的 RabbitMQ 服务默认有效期为半个月，可以点击一次续期延长至一个月，到期前会发送邮件通知用户。
 
 7、点击 `管理地址` 对应链接。
 <div align=center>
