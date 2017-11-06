@@ -51,7 +51,7 @@
 </div>
 <p align="center">图 7</p>
 
-修改成功
+配置文件修改成功。
 <div align=center>
 <img src="/articles/cloud/3-/images/config/config_8.png"/>
 </div>
