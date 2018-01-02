@@ -94,8 +94,6 @@ Digest: sha256:41ad9967ea448d7c2b203c699b429abe1ed5af331cd92533900c6d77490e0268
 ```
 dockerhub.yonyoucloud.com/租户ID/imagename:tag 
 ```
-**如果是当作自定义基础镜像，规定在imagename后边加上@ownBase后缀，例如：dockerhub.yonyoucloud.com/租户ID/imagename```@ownBase```:tag*
-
 将镜像  tag 为符合规则的镜像名后，开发者先登录到私有镜像仓库，然后进行Push动作，完成Push后即可在开发者的私有镜像仓库中查看到手动上传的镜像信息。
 
 完整示例:
