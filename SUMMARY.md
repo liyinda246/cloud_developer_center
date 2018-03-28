@@ -33,4 +33,5 @@
   * [常见问题](articles/cloud/4-/question.md)
   * [只允许内网访问应用](articles/cloud/4-/access_only_inside.md)
   * [控制台打不开](articles/cloud/4-/console_open_questions.md)
+  * [PermGen的解决办法](articles/cloud/4-/permgen_question.md)
 
