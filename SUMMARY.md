@@ -34,4 +34,5 @@
   * [只允许内网访问应用](articles/cloud/4-/access_only_inside.md)
   * [控制台打不开](articles/cloud/4-/console_open_questions.md)
   * [PermGen的解决办法](articles/cloud/4-/permgen_question.md)
+  * [如果添加性能监控](articles/cloud/4-/how_to_add_pinpoint.md)
 
