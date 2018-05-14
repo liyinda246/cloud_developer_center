@@ -35,4 +35,5 @@
   * [控制台打不开](articles/cloud/4-/console_open_questions.md)
   * [PermGen的解决办法](articles/cloud/4-/permgen_question.md)
   * [如果添加性能监控](articles/cloud/4-/how_to_add_pinpoint.md)
+  * [如何申请域名](articles/cloud/4-/apply_domain_name.md)
 
