@@ -14,4 +14,3 @@
 
 ## [使用和管理灰度发布服务](middleware/grey.md)
 
-## [使用和管理 Jira 服务](middleware/jira.md)
