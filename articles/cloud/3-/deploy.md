@@ -113,4 +113,4 @@ f12c15fc56f1: Layer already exists
 v1: digest: sha256:12d30ce421ad530494d588f87b2328ddc3cae666e77ea1ae5ac3a6661e52cde6 size: 948
 ```
 
-Tips: 租户ID可以联系开发者中心获取。
+Tips: 租户ID可以通过查看网页cookie中u_providerid的值，或联系开发者中心获取。
