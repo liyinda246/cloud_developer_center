@@ -32,7 +32,7 @@
   * [配置中心](articles/cloud/3-/config.md)
   * [数据服务]()
   * [资源申请与审批](articles/cloud/3-)
-    * [域名管理](articles/cloud/3-/domain.md)
+    * [域名管理](articles/cloud/3-/cmdb-domain.md)
     * [审批管理](articles/cloud/3-/exam.md)
   * [权限管理](articles/cloud/3-/access.md)
   
