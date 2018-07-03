@@ -1,0 +1,30 @@
+{ 
+ "title": "云开发者中心", 
+ "desc": "用友云开发者中心为开者提供了资源管理、持续集成、持续交付、容器服务、镜像仓库等应用基础服务，同
+
+时为应用的微服务架构落地提供完备的支撑，结合DevOps的理念，通过提供自动化运维、日志管理、中间件服务等功能
+
+，帮助开发及运维人员降低产品研发迭代过程中的负担。", 
+ "list": [ 
+ { 
+ "title": "快速入门", 
+ "link": "#/md-build/cloud_developer_center/articles/cloud/2-/scene1.md", 
+ "desc": "本文介绍了如何快速应用云开发者中心" 
+ }, 
+ { 
+ "title": "租户开通", 
+ "link": "#/md-build/cloud_developer_center/articles/cloud/3-/opening.md", 
+ "desc": "讲解了租户开通的流程" 
+ }, 
+ { 
+ "title": "应用上架", 
+ "link": "#/md-build/cloud_developer_center/articles/cloud/3-/onsale.md", 
+ "desc": "讲解了应用上架的具体操作" 
+ }, 
+ { 
+ "title": "日志管理", 
+ "link": "#/md-build/cloud_developer_center/articles/cloud/3-/log.md", 
+ "desc": "讲解了日志管理的功能和流程" 
+ } 
+ ] 
+ } 
