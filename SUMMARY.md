@@ -25,7 +25,7 @@
     * [监控大盘](articles/cloud/3-/monitor.md)
     * [变更大盘](articles/cloud/3-/change.md)
     * [报警中心](articles/cloud/3-/alarm_center.md)
-    * [产品中心](articles/cloud/3-/product.md)
+    * [产品中心](articles/cloud/3-/app_product.md)
   * [微服务]()
   * [测试服务]()
   * [中间件服务](articles/cloud/3-/middleware.md)
