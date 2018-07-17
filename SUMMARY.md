@@ -9,7 +9,7 @@
   
 * 快速入门
   * [场景一：如何快速创建一个应用](articles/cloud/2-/scene1.md)
-  * [场景二：1分钟快速部署您的第一个容器](articles/cloud/2-/scene2.md)
+  * [场景二：如何管理已部署的应用](articles/cloud/2-/scene2.md)
   * [云开发者中心快速入门](articles/cloud/2-/rumen.md)
   * [用友云开发者中心使用 Docker](articles/cloud/2-/center_docker.md)
   
