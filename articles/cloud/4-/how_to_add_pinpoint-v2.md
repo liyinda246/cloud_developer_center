@@ -25,7 +25,7 @@ CONTEXT_NAME | ${app-name}-daily
 PINPOINT_ENABLED | true
 PINPOINT_COLLECTOR_IP | 172.20.53.60
 
-其中，CONTEXT_NAME需要根据自己的应用起一个具有唯一性的名字，可以进入【性能监控】页签，查看是否已经有重名的CONTEXT_NAME，如果有，则需要换一个名字。
+其中，**<font color=#FF0000 size=4 face="黑体">CONTEXT_NAME需要根据自己的应用起一个具有唯一性的名字，可以进入【性能监控】页签，查看是否已经有重名的CONTEXT_NAME，如果有，则需要换一个名字。</font>**
 
 修改之后的环境变量如图1所示：
 
