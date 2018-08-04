@@ -41,12 +41,4 @@ PINPOINT_COLLECTOR_IP | 172.20.53.60
 
 ## 3.查看该应用的监控
 
-在【性能监控】页签，根据CONTEXT_NAME查看该应用的监控，如图2所示：
-
-<div align=center>
-
-<img src="images/how_to_add_pinpoint_2.png"/>
-
-</div>
-
-<p align="center">图 2</p>
+性能监控的地址为：http://172.20.53.60:8180/#/main，在【性能监控】，根据CONTEXT_NAME查看该应用的监控。
