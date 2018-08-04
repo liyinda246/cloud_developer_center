@@ -31,7 +31,7 @@ PINPOINT_COLLECTOR_IP | 172.20.53.60
 
 <div align=center>
 
-<img src="images/how_to_add_pinpoint_1.png"/>
+<img src="images/how_to_add_pinpoint_1_v2.png"/>
 
 </div>
 
