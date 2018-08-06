@@ -2,7 +2,7 @@
 
 ----
 
-# 前提条件
+## 前提条件
 
 - 用户需要拥有一台Linux服务器
 - 在容器内，能ping通这台服务器的ip
@@ -13,7 +13,7 @@
 
 现在需要将`/usr/local/tomcat/logs`里面的日志文件，拷贝`10.6.205.169`的`/tmp`文件里面上去。
 
-# 进入容器，验证能否ping通Linux服务器ip
+## 进入容器，验证能否ping通Linux服务器ip
 
 如何进入容器控制台，参考图1：
 
@@ -35,7 +35,7 @@
 
 <p align="center">图 2</p>
 
-# 安装`scp`命令
+## 安装`scp`命令
 
 进入容器控制台，执行如下命令：
 
@@ -53,7 +53,7 @@ apk update && apk add --no-cache openssh-client
 
 <p align="center">图 3</p>
 
-# 拷贝文件
+## 拷贝文件
 
 执行如下命令，拷贝文件：
 
@@ -81,7 +81,7 @@ scp -r /usr/local/tomcat/logs/ root@10.6.205.169:/tmp
 
 <p align="center">图 5</p>
 
-# 登录`10.6.205.169`查看日志
+## 登录`10.6.205.169`查看日志
 
 进入`10.6.205.169`的`/tmp`查看日志，如图6所示：
 
@@ -93,7 +93,7 @@ scp -r /usr/local/tomcat/logs/ root@10.6.205.169:/tmp
 
 <p align="center">图 6</p>
 
-# 备注
+## 备注
 
 `10.6.205.169`服务器是通过VirtualBox创建的Centos 7，网络模式为：`桥接模式`。
 
