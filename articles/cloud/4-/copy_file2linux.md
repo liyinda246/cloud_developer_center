@@ -11,7 +11,7 @@
 
 假设我在开发者中心创建的应用为：`DC-test-app`。
 
-现在需要将`/usr/local/tomcat/logs`里面的日志文件，拷贝`10.6.205.169`的`/tmp`文件里面上去。
+现在需要将`/usr/local/tomcat/logs`里面的日志文件，拷贝到`10.6.205.169`的`/tmp`文件夹里面。
 
 ## 进入容器，验证能否ping通Linux服务器ip
 
@@ -43,7 +43,7 @@
 apk update && apk add --no-cache openssh-client
 ```
 
-得到如下结果说明安装成功，如图3所示：
+得到如下结果，说明安装成功，如图3所示：
 
 <div align=center>
 
@@ -96,5 +96,7 @@ scp -r /usr/local/tomcat/logs/ root@10.6.205.169:/tmp
 ## 备注
 
 `10.6.205.169`服务器是通过VirtualBox创建的Centos 7，网络模式为：`桥接模式`。
+
+容器的基础镜像由开发者中心提供，版本为alpine。
 
 如果您在上述操作过程中遇到任何问题，请联系开发者中心相关人员。
