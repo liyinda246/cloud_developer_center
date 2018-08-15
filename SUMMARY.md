@@ -44,4 +44,5 @@
   * [如果添加性能监控](articles/cloud/4-/how_to_add_pinpoint.md)
   * [如何申请域名](articles/cloud/4-/apply_domain_name.md)
   * [拷贝容器内文件到Linux服务器](articles/cloud/4-/copy_file2linux.md)
+  * [如何下载应用包](articles/cloud/4-/download_app_package.md)
 
