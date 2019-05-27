@@ -64,7 +64,9 @@
 事件页签显示了最后修改、失败任务等。日志页签可以查看应用的日志，并可以暂停日志刷新。
 
 ![image](/articles/cloud/3-/images/application/7_1.png)
+
 ![image](/articles/cloud/3-/images/application/7_2.png)
+
 ![image](/articles/cloud/3-/images/application/7_3.png)
 
 6. ```监控与报警```页签
