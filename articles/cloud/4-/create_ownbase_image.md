@@ -27,6 +27,7 @@
 ![create_ownbase_image_6](./images/create_ownbase_image_6.png)
 
 点击【生成镜像】，点击【使用Dockerfile构建】，如下图所示：
+
 ![create_ownbase_image_7](./images/create_ownbase_image_7.png)
 
 输入生成基础镜像的Dockerfile，并点击【保存】，如下图所示：
