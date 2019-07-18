@@ -45,4 +45,4 @@
   * [如何申请域名](articles/cloud/4-/apply_domain_name.md)
   * [拷贝容器内文件到Linux服务器](articles/cloud/4-/copy_file2linux.md)
   * [如何下载应用包](articles/cloud/4-/download_app_package.md)
-
+  * [利用开发者中心流水线制作私有基础镜像](articles/cloud/4-/create_ownbase_image.md)
