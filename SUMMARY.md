@@ -38,6 +38,7 @@
   
 * 产品常见问题
   * [常见问题](articles/cloud/4-/question.md)
+  * [Linux常用命令](articles/cloud/4-/common_linux_command.md)
   * [只允许内网访问应用](articles/cloud/4-/access_only_inside.md)
   * [控制台打不开](articles/cloud/4-/console_open_questions.md)
   * [PermGen的解决办法](articles/cloud/4-/permgen_question.md)
@@ -46,3 +47,4 @@
   * [拷贝容器内文件到Linux服务器](articles/cloud/4-/copy_file2linux.md)
   * [如何下载应用包](articles/cloud/4-/download_app_package.md)
   * [利用开发者中心流水线制作私有基础镜像](articles/cloud/4-/create_ownbase_image.md)
+  * [应用授权](articles/cloud/4-/authorize_app.md)
