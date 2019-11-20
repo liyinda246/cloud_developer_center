@@ -52,3 +52,4 @@
   - [利用开发者中心流水线制作私有基础镜像](articles/cloud/4-/create_ownbase_image.md)
   - [应用授权](articles/cloud/4-/authorize_app.md)
   - [手动调试](articles/cloud/4-/debug_mode.md)
+  - [宿主机模式](articles/cloud/4-/host_mode.md)
