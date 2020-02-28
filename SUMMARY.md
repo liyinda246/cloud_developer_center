@@ -60,3 +60,8 @@
   - [视频专区](articles/cloud/5-/video.md)
   - [文案专区](articles/cloud/5-/article.md)
 
+- 专属云
+  - [产品介绍](articles/cloud/6-/product.md)
+  - [安装盘申请](articles/cloud/6-/installer.md)
+  - [常见问题](articles/cloud/6-)
+  - [运维最佳实践](articles/cloud/6-)
