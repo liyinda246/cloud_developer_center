@@ -5,3 +5,8 @@
       <source id="mp4" src="http://nginx-01.dev.app.yyuap.com/iuap.mp4" type="video/mp4">
 </video>
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](http://nginx-01.dev.app.yyuap.com/iuap.mp4)
+
