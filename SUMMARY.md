@@ -14,20 +14,34 @@
   - [场景二：如何管理已部署的应用](articles/cloud/2-/scene2.md)
   - [云开发者中心快速入门](articles/cloud/2-/rumen.md)
   - [用友云开发者中心使用 Docker](articles/cloud/2-/center_docker.md)
-
+<!--
+位置变动[持续集成],[应用管理],[监控大盘]
+新添加[应用日志] [产品服务] [YS上线申请] [产品管理] [打包出盘] [云产品仓库] [云产品申请] 
+      [云产品审核] [云产品指标] [云产品指标总览]
+-->
 - 用户手册
 
   - [租户开通](articles/cloud/3-/opening.md)
   - [控制台](articles/cloud/3-/control.md)
+  - [持续集成](articles/cloud/3-/create.md)
+  - [应用管理](articles/cloud/3-/application.md)
   - [容器服务](articles/cloud/3-)
     - [资源池](articles/cloud/3-/resource_pool.md)
-    - [应用管理](articles/cloud/3-/application.md)
+    - [应用日志](articles/cloud/3-/app_log.md)
+    - [产品服务](articles/cloud/3-/product_serve.md)
     - [镜像仓库](articles/cloud/3-/deploy.md)
-  - [DevOps 服务](articles/cloud/3-)
-    - [持续集成](articles/cloud/3-/create.md)
     - [监控大盘](articles/cloud/3-/monitor.md)
+  - [DevOps 服务](articles/cloud/3-)
+    - [YS上线申请](articles/cloud/3-/ys_online.md)
+    - [产品管理](articles/cloud/3-/product_management.md)
+    - [打包出盘](articles/cloud/3-/package.md)
     - [变更大盘](articles/cloud/3-/change.md)
     - [报警中心](articles/cloud/3-/alarm_center.md)
+    - [云产品仓库](articles/cloud/3-/cloud_registry.md)
+    - [云产品申请](articles/cloud/3-/cloud_apply.md)
+    - [云产品审核](articles/cloud/3-/cloud_audit.md)
+    - [云产品指标](articles/cloud/3-/cloud_index.md)
+    - [云产品指标总览](articles/cloud/3-/cloud_overview.md)
     - [产品中心](articles/cloud/3-/app_product.md)
   - [微服务]()
   - [测试服务]()
@@ -60,3 +74,8 @@
   - [视频专区](articles/cloud/5-/video.md)
   - [文案专区](articles/cloud/5-/article.md)
 
+- 专属云
+  - [产品介绍](articles/cloud/6-/product.md)
+  - [安装盘申请](articles/cloud/6-/installer.md)
+  - [常见问题](articles/cloud/6-)
+  - [运维最佳实践](articles/cloud/6-)
