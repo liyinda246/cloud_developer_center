@@ -1,6 +1,6 @@
 **江湖传言，产品经理和开发同学的矛盾由来已久。**
 
-![](/articles/cloud/5-/media/f299bd4afbd776b417c31c3842d2226a.jpg)
+![](/articles/cloud/5-/media/f299bd4afbd776b417c31c3842d2226a.png)
 
 **现在疫情蔓延，这些江湖传言是否是真实存在的呢？**
 
