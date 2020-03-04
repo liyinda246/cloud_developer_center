@@ -76,7 +76,9 @@
     - [视频](articles/cloud/5-/video.md)
   - [文案专区](articles/cloud/5-)
     - [需求管理](articles/cloud/5-/requirement.md)
-    - [需求管理](articles/cloud/5-/requirement.md)
+    - [企业devops](articles/cloud/5-/enterprise_devops.md)
+  - [kubernetes专区](articles/cloud/5-)
+    - [kubernetes之资源管理](articles/cloud/5-/k8s_qos.md)
 
 - 专属云
   - [产品介绍](articles/cloud/6-/product.md)
