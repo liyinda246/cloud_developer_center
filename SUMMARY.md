@@ -1,4 +1,9 @@
 # 云开发者中心
+<!--
+#位置变动[持续集成],[应用管理],[监控大盘]
+#新添加[应用日志] [产品服务] [YS上线申请] [产品管理] [打包出盘] [云产品仓库] [云产品申请] 
+#      [云产品审核] [云产品指标] [云产品指标总览]
+-->
 
 - 产品介绍
 
@@ -14,11 +19,7 @@
   - [场景二：如何管理已部署的应用](articles/cloud/2-/scene2.md)
   - [云开发者中心快速入门](articles/cloud/2-/rumen.md)
   - [用友云开发者中心使用 Docker](articles/cloud/2-/center_docker.md)
-<!--
-位置变动[持续集成],[应用管理],[监控大盘]
-新添加[应用日志] [产品服务] [YS上线申请] [产品管理] [打包出盘] [云产品仓库] [云产品申请] 
-      [云产品审核] [云产品指标] [云产品指标总览]
--->
+
 - 用户手册
 
   - [租户开通](articles/cloud/3-/opening.md)
@@ -71,8 +72,13 @@
   - [宿主机网络模式下添加调试端口](articles/cloud/4-/debug_in_host_mode.md)
 
 - 宣传专区
-  - [视频专区](articles/cloud/5-/video.md)
-  - [文案专区](articles/cloud/5-/article.md)
+  - [视频专区](articles/cloud/5-)
+    - [视频](articles/cloud/5-/video.md)
+  - [文案专区](articles/cloud/5-)
+    - [需求管理](articles/cloud/5-/requirement.md)
+    - [企业devops](articles/cloud/5-/enterprise_devops.md)
+  - [kubernetes专区](articles/cloud/5-)
+    - [kubernetes之资源管理](articles/cloud/5-/k8s_qos.md)
 
 - 专属云
   - [产品介绍](articles/cloud/6-/product.md)
